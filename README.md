@@ -2,7 +2,7 @@
 
 ## 入门
 
-###　安装
+### 安装
 
 ```go
 go get -u gorm.io/gorm
